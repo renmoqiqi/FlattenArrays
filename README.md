@@ -1,10 +1,12 @@
 # FlattenArrays 数组降维
 
-"""
 Implement Flatten Arrays.
+
 Given an array that may contain nested arrays,
+
 produce a single resultant array.
-"""
+
+
 ```
     NSArray *nestedArray = @[@[@"1", @"2"], @[@"1", @"2"]];
 
